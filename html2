@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notícias</title>
+</head>
+
+<body>
+    <header>
+        <h1>Portal de Notícias</h1>
+    </header>
+
+    <main>
+        <article>
+            <h1>1</h1>
+            <h2>Aumento do Desmatamento na Amazônia</h2>
+            <p>Dados recentes indicam um aumento preocupante do desmatamento na Amazônia brasileira, com áreas
+                florestais significativas sendo devastadas. Ambientalistas alertam para as consequências ambientais
+                catastróficas e pressionam por medidas urgentes de proteção e preservação da maior floresta tropical do
+                mundo.</p>
+        </article>
+
+        <article>
+            <h1>2</h1>
+            <h2>Reforma Tributária em Debate no Congresso</h2>
+            <p>O debate sobre a reforma tributária ganha destaque no Congresso Nacional, com propostas para simplificar
+                o sistema tributário brasileiro e reduzir a carga de impostos sobre empresas e cidadãos. Diferentes
+                setores da sociedade e representantes políticos divergem sobre os pontos específicos da reforma, gerando
+                intensos debates e negociações. </p>
+        </article>
+
+        <article>
+            <h1>3</h1>
+            <h2>Violência Urbana nas Grandes Cidades</h2>
+            <p>A violência urbana continua sendo uma preocupação em grandes cidades brasileiras, com aumento dos índices
+                de criminalidade e violência armada. As autoridades buscam implementar estratégias para conter a
+                criminalidade e garantir a segurança dos cidadãos, enquanto a sociedade debate soluções de longo prazo
+                para o problema.</p>
+        </article>
+    </main>
+
+    <footer>
+        <h3>veja mais:</h3>
+        <ul>
+            <li><a href="https://www.bbc.com/portuguese/noticias/2014/03/140321_seca_saopaulo_rb">Primeira noticia</a>
+            </li>
+            <li><a href="https://exame.com/economia/projeto-que-regulamenta-reforma-tributaria-sera-discutido-na-camara-nesta-terca/">Segunda noticia </a></li>
+            <li><a href="https://www.infoescola.com/sociedade/violencia-nas-grandes-cidades/#:~:text=Os%20atos%20transgressores%20ocorridos%20no%20%C3%A2mago%20das%20grandes,social%20que%20se%20convencionou%20chamar%20de%20viol%C3%AAncia%20urbana.">Terceira noticia</a></li>
+        </ul>
+    </footer>
+</body>
+
+</html>
